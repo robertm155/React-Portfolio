@@ -1,0 +1,51 @@
+@font-face {
+  font-family: Antonio;
+  src: url(https://robertm155.github.io/Portfolio-Website/assets/font/Antonio-Regular.ttf);
+}
+body {
+  background-color: rgb(26, 26, 26);
+  font-family: Antonio;
+  color: white;
+  font-size: 100%;
+}
+
+#bio{
+margin-top: 100px;
+}
+.title{
+border-bottom: 2px solid #3966e0;
+}
+.bio{
+line-height: 25px;
+}
+
+.contact-form{
+margin-top: 100px;
+}
+
+#portfolio{
+margin-top: 100px;
+}
+
+.submit-button{
+background-color: #3966e0;
+}
+
+.nav-color{
+background-color: rgb(26, 26, 26);
+}
+
+.page-footer {
+margin-top: 100px;
+line-height: 20px;
+background-color: rgb(26, 26, 26);
+}
+
+#card-link{
+line-height: 15px;
+background-color: rgb(26, 26, 26);
+}
+#project-title{
+line-height: 25px;
+font-size: 140%;
+}
